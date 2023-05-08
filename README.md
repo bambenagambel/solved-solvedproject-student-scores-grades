@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-solvedproject-student-scores-grades
+<br>
+Operation This application stores the last name, first name, and score for one or more students and it calculates the average score for all of the scores that have been entered. When the user clicks on the Clear button, this application clears the score data from this application. When the user clicks on the Sort button, this application sorts the data in alphabetical order by last name.Specifications The program should use one or more arrays to store the data. Do not assume that the user will enter valid numerical data. Assume scores should be between 0.0 and 100.0
+
+ BONUS – Not required. Display the following along with the averageo Standard deviation:ooooooo Variance: oo Example – From the values entered aboveo Average is 90.5o Standard Deviation is 5.8023o Variance is 33.66667
